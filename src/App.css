@@ -1,0 +1,14 @@
+input::placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+button:hover {
+  transform: scale(1.05);
+  background: #1d4ed8;
+}
+.container{
+  padding-top: 0px;
+}
+
+.navbar {
+  margin-bottom: 5px !important;
+}
