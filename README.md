@@ -1,6 +1,9 @@
 # Film Finder- an IMDb clone
+<img width="1824" height="1044" alt="image" src="https://github.com/user-attachments/assets/c6c934e2-7380-43fa-8824-8b0434395507" />
+
 MovieVerse is a modern movie discovery web application built using React, Bootstrap, and Supabase.
 Users can browse movies, create an account, manage favorites and watchlists, and securely store their data in the cloud.
+The application emphasizes modern UI/UX principles including responsive design, micro-interactions, hover-based card animations, smooth transitions, and real-time state updates to enhance user engagement and usability.
 
 ## 🚀 Features
 
