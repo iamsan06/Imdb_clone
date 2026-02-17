@@ -1,4 +1,4 @@
-# Film Finder- an imdb clone
+# Film Finder- an IMDb clone
 MovieVerse is a modern movie discovery web application built using React, Bootstrap, and Supabase.
 Users can browse movies, create an account, manage favorites and watchlists, and securely store their data in the cloud.
 
