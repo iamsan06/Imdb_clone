@@ -2,7 +2,7 @@
 MovieVerse is a modern movie discovery web application built using React, Bootstrap, and Supabase.
 Users can browse movies, create an account, manage favorites and watchlists, and securely store their data in the cloud.
 
-🚀 Features
+##🚀 Features
 
 🔍 Browse and search movies
 
@@ -18,8 +18,8 @@ Users can browse movies, create an account, manage favorites and watchlists, and
 
 ☁️ Cloud database storage with Supabase
 
-🛠️ Tech Stack
-Frontend
+##🛠️ Tech Stack
+####Frontend
 
 ⚛️ React
 
@@ -27,7 +27,7 @@ Frontend
 
 React Router DOM
 
-Backend & Database
+####Backend & Database
 
 🔐 Authentication
 
@@ -47,5 +47,5 @@ Each user's favorites and watchlist are securely stored and linked to their uniq
 
 🔑 Supabase Authentication
 
-👨‍💻 Author
+####👨‍💻 Author
 Built by iamsan06
