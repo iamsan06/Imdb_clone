@@ -47,5 +47,5 @@ Each user's favorites and watchlist are securely stored and linked to their uniq
 
 🔑 Supabase Authentication
 
-#### 👨‍💻 Author
+## 👨‍💻 Author
 Built by iamsan06
